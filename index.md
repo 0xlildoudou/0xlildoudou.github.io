@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# CyberOps Blog
+# 0xlildoudou
 
 Welcome to my professional blog where I share insights, tutorials, and best practices about cybersecurity and DevOps.
 
