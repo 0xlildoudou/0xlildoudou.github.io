@@ -1,0 +1,37 @@
+# Site settings
+title: 0xlildoudou
+email: 0xlildoudou@proton.me
+description: >-
+  My professional blog about cybersecurity and DevOps, 
+  sharing insights, tutorials, and best practices.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Custom settings
+author: 0xlildoudou
+github_username: 0xlildoudou
+linkedin_username: dorian-ragot
+twitter_username: 
+
+# Navigation
+header_pages:
+  - about.md
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "0xlildoudou"
+      comments: false
